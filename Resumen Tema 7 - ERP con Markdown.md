@@ -1,10 +1,10 @@
-1. Definición de Sistema de Información 
+## 1. Definición de Sistema de Información 
 
 En la definición de Sistema de información, podemos utilizar diferentes herramientas de Business Intelligence para registrar dicha información de distintas actividades. 
 
 En el pasado, las empresas utilizaban softwares distintos para cada departamento, pero a día de hoy, hay aplicaciones que integran todas las necesidades para gestionar cada departamento.
 
-2. Concepto de [Ciclo de vida del software]
+## 2. Concepto de [Ciclo de vida del software]
 
 El ciclo de vida de un software se define en un enfoque general del desarrollo, indicando procesos, actividades y tareas estar hechos y en orden, y los productos deben ser crearán cosas que llegarán a los clientes y en qué orden serán entregados. Podemos distinguir distintos ciclos de vida del software:
 
@@ -12,7 +12,7 @@ El ciclo de vida de un software se define en un enfoque general del desarrollo, 
 - *Ciclo de vida incremental:* Se repiten varios tipos de ciclo de vida en cascada y se suele aplicar a desarrollos de gran tamaño, siendo que al final, se entrega una versión parcial del software.
 - *Ciclo de vida iterativo:* Se repiten varios ciclos de vida en cascada (como el anterior) y al final de cada ciclo, se entrega una versión completa del software.
 
-3. ¿Qué es ERP y CRM?
+## 3. ¿Qué es ERP y CRM?
 
 Un CRM (Customer Relationship Management) es una aplicación informática, en ocasiones integrada en las ERP, orientada a registrar la información de los clientes, de ventas y principalmente para el marketing. Los CRM podrían ser aplicaciones que se usan dependiendo del seguimiento de los clientes, la oferta, campañas publicitarias, entre otras.
 
@@ -41,7 +41,7 @@ Existen varios tipos de ERP’s libres como OpenBravo, Odoo... siendo los más u
 
 También tener en cuenta que existen ERP en la nube.
 
-4. Módulos que conforman un ERP.
+## 4. Módulos que conforman un ERP.
 
 Los ERP están compuestos de los siguientes módulos:
 
@@ -55,7 +55,7 @@ Los ERP están compuestos de los siguientes módulos:
 	- Módulo de marketing.
 	- Módulo TPV.
 
-5. Realice una tabla en la que identifique aplicaciones ERP comerciales y open source con los siguientes datos:
+## 5. Realice una tabla en la que identifique aplicaciones ERP comerciales y open source con los siguientes datos:
 	- Nombre
 	- URL
 	- País de desarrollo
